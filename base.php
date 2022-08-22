@@ -132,8 +132,7 @@ function math ($math,$col,...$arg){
 
 
 $Bot=new DB('b_quiz_4_bot');
-$te = $Bot->save(['text'=>'頁尾版權333']);
-dd($te);
+
 
 ?>
 

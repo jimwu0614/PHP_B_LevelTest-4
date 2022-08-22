@@ -34,13 +34,15 @@
                         <span>
                                 <div>進站總人數</div>
                                 <div style="color:#f00; font-size:28px;">
-                                        00005 </div>
+                                        00005 
+                                </div>
                         </span>
                 </div>
                 <div id="right">
                 </div>
                 <div id="bottom" style="line-height:70px;background:url(icon/bot.png); color:#FFF;" class="ct">
-                        頁尾版權 : </div>
+                        頁尾版權 : 
+                </div>
         </div>
 
 </body>

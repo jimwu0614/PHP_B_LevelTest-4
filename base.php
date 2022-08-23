@@ -133,6 +133,6 @@ function math ($math,$col,...$arg){
 
 $Bot=new DB('b_quiz_4_bot');
 $Mem=new DB('b_quiz_4_mem');
-
+$Admin=new DB('b_quiz_4_admin');
 ?>
 
